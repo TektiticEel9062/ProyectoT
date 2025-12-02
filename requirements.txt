@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+duckdb
+scikit-learn
+xgboost
+statsmodels
+joblib
+pydeck
+geopy
+unidecode
+requests
+openpyxl
+scipy
